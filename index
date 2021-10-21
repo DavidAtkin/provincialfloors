@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<title>Provincial Floors Ltd</title>
+<!-- -----		----- -->
+<meta name="description" content="Raised access flooring, acoustic flooring and sports flooring contractors" />
+<meta name="keywords"    content=" add keywords     ... " />
+	<!-- //////// Favicon ////////  -->
+	<!--<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />-->
+<!-- -----		----- -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+.hr { border-top: 1px solid #346699; margin: 30px 0; }
+a:link, a { color: #346699; }
+a { text-decoration: none; } 
+	
+</style>
+<body>
+
+<!-- -----		----- -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+		<img src="_layout\images\Provincial_logo.png" alt="Logo">
+		<!--<img src="Home_files\wdhAp4vsU6506LVkCih10nc77VFcosEEqGQn5zuJ0HTJZwTl9uuwovsONPsJ.png" alt="Logo">-><!-- -----	250 x 60	----- -->
+    </div>
+	<div class="w3-row">
+		<div class="hr"></div>
+    </div>
+		
+	<div class="w3-row w3-center">
+      <h1>Website Under Construction</h1>	
+    </div>
+	
+	<div class="w3-row">
+		<div class="hr"></div>
+    </div>
+	<div class="w3-row">
+      <div class="w3-third">
+	  <p><b>© 2019 Provincial Floors Ltd</b><br><br>
+		All right are reserved.</p>	
+	  </div>  
+	  <div class="w3-third">
+	  <p><b>Contact Info</b><br><br>
+		Provincial Floors Limited<br>
+		Unit 15, 29 Montrose Avenue<br>
+		Hillington Industrial Estate<br>
+		Glasgow, G52 4LA<br>
+		T: 0141 8831026<br>
+		Email: <a href="mailto:gwen.macbain@provincialfloors.co.uk" target="_blank">Contact Us</a></p>
+	  </div>  
+	  <div class="w3-third">
+	  
+	  </div>  
+    </div>
+		
+  </div>
+</div>
+
+<!-- -----		----- -->
+
+</body>
+</html>
